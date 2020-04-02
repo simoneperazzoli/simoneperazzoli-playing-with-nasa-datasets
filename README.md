@@ -1,6 +1,6 @@
 # simoneperazzoli-playing-with-nasa-datasets
 
-This resository was created with the goal to analyse Nasa open datasets.
+This repository was created with the goal to analyse Nasa open datasets.
 
 To run this notebook, follow the instruction bellow:
 
