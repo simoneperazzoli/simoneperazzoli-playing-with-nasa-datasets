@@ -1,6 +1,6 @@
 # simoneperazzoli-playing-with-nasa-datasets
 
-This repository was created with the goal to analyse Nasa open datasets.
+This repository was created aiming to get insights on Nasa open datasets
 
 To run this notebook, follow the instruction bellow:
 
@@ -35,6 +35,8 @@ To run this notebook, follow the instruction bellow:
 - `pip3 install scipy`
 
 - `pip3 install matplotlib`
+
+- `pip3 install geopandas`
 
 
 
