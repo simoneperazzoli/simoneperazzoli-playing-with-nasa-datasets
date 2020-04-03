@@ -1,10 +1,10 @@
-# simoneperazzoli-playing-with-nasa-datasets
+## Playing-with-nasa-datasets
 
 This repository was created aiming to get insights on Nasa open datasets
 
 To run this notebook, follow the instruction bellow:
 
-## Commands to run:
+### Commands to run:
 
 *1) Creating a virtual environment for python3*
 
